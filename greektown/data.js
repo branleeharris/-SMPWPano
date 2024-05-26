@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-20240525_175945_307",
-      "name": "20240525_175945_307",
+      "id": "0-greektown",
+      "name": "Greektown",
       "levels": [
         {
           "tileSize": 256,
@@ -24,26 +24,26 @@ var APP_DATA = {
       ],
       "faceSize": 2000,
       "initialViewParameters": {
-        "yaw": 0.24478355553825537,
-        "pitch": 0.3084154974126072,
-        "fov": 1.4319388366908425
+        "yaw": 0.26111696914134264,
+        "pitch": 0.2774917737324909,
+        "fov": 1.3042315812875422
       },
       "linkHotspots": [],
       "infoHotspots": [
         {
-          "yaw": -2.0185382062795796,
-          "pitch": -0.2024188328146117,
+          "yaw": -2.0361798700179587,
+          "pitch": -0.1977287602039386,
           "title": "Emergency Location #1",
-          "text": "Inside of Five Guys"
+          "text": "Inside Five Guys<br><br>Entrance is on Monroe"
         }
       ]
     }
   ],
-  "name": "Test",
+  "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": true,
-    "viewControlButtons": true
+    "fullscreenButton": false,
+    "viewControlButtons": false
   }
 };
