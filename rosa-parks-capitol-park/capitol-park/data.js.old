@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-rosaparks",
-      "name": "Rosa Parks",
+      "name": "RosaParks",
       "levels": [
         {
           "tileSize": 256,
@@ -57,7 +57,7 @@ var APP_DATA = {
     },
     {
       "id": "1-westin-em",
-      "name": "Westin Hotel (Emergency Location)",
+      "name": "Westin EM",
       "levels": [
         {
           "tileSize": 256,
@@ -139,7 +139,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Rosa Parks",
+  "name": "RosaParks",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
