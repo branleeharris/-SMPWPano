@@ -387,6 +387,6 @@
   }
 
   // Display the initial scene.
-  switchScene(scenes[3]);
+  switchScene(scenes[2]);
 
 })();
