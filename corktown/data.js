@@ -40,7 +40,14 @@ var APP_DATA = {
           "target": "1-michigan-central-station"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0.11014451031068084,
+          "pitch": -0.26740653724011665,
+          "title": "Emergency Location",
+          "text": "Michigan Central Station"
+        }
+      ]
     },
     {
       "id": "1-michigan-central-station",
