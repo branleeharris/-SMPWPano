@@ -56,6 +56,12 @@ var APP_DATA = {
           "pitch": 0.5550122166599465,
           "rotation": 3.141592653589793,
           "target": "1-avalon-bakery-alternate"
+        },
+        {
+          "yaw": -0.12051881174570944,
+          "pitch": 0.43883580618157225,
+          "rotation": 16.493361431346422,
+          "target": "2-emergency-location---meridian"
         }
       ],
       "infoHotspots": [
@@ -239,7 +245,20 @@ var APP_DATA = {
         "pitch": 0.03479156106388359,
         "fov": 0.6705709648610689
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 2.2227632440689833,
+          "pitch": 0.05359462498175027,
+          "rotation": 6.283185307179586,
+          "target": "0-avalon-primary"
+        },
+        {
+          "yaw": 2.033215410225961,
+          "pitch": 0.06727442192235955,
+          "rotation": 5.497787143782138,
+          "target": "1-avalon-bakery-alternate"
+        }
+      ],
       "infoHotspots": [
         {
           "yaw": -0.22442819503196,
