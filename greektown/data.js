@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-greektown-carts",
-      "name": "Greektown Carts",
+      "id": "0-greektown",
+      "name": "Greektown",
       "levels": [
         {
           "tileSize": 256,
@@ -30,7 +30,7 @@ var APP_DATA = {
       "initialViewParameters": {
         "yaw": 0.39019823508585816,
         "pitch": 0.32584878288198027,
-        "fov": 0.7140603684084289
+        "fov": 1.101806868924403
       },
       "linkHotspots": [
         {
@@ -86,7 +86,7 @@ var APP_DATA = {
           "yaw": -1.6439510673484872,
           "pitch": 0.2780537363942255,
           "rotation": 0,
-          "target": "0-greektown-carts"
+          "target": "0-greektown"
         }
       ],
       "infoHotspots": [
