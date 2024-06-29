@@ -89,7 +89,14 @@ var APP_DATA = {
           "target": "0-greektown-carts"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0.5616518074844983,
+          "pitch": -0.04521746126028958,
+          "title": "Entrance to Casino Hotel",
+          "text": ""
+        }
+      ]
     }
   ],
   "name": "Greektown",
