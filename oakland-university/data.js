@@ -89,11 +89,24 @@ var APP_DATA = {
       ],
       "faceSize": 2976,
       "initialViewParameters": {
-        "yaw": 0.01854487255819315,
-        "pitch": 0.32798491786979156,
-        "fov": 0.8839464945624583
+        "yaw": 0.011800566027972081,
+        "pitch": 0.3453107980135126,
+        "fov": 0.7110524055988134
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 2.3146452185700888,
+          "pitch": 0.592703123687258,
+          "rotation": 0,
+          "target": "0-oakland-primary-location"
+        },
+        {
+          "yaw": 2.6053251195618454,
+          "pitch": 0.04429081790222966,
+          "rotation": 5.497787143782138,
+          "target": "2-oakland-alternate-location"
+        }
+      ],
       "infoHotspots": [
         {
           "yaw": 2.3126601821685178,
@@ -106,6 +119,18 @@ var APP_DATA = {
           "pitch": 0.12553777585237036,
           "title": "Rain Location",
           "text": "If you experience inclimate weather, you can choose to keep the carts up and move them under this awning&nbsp;"
+        },
+        {
+          "yaw": 0.3829101335856251,
+          "pitch": 0.15943289785631265,
+          "title": "Emergency Location",
+          "text": "Inside North Foundation Hall"
+        },
+        {
+          "yaw": 2.3586187970272325,
+          "pitch": 0.042807889184029335,
+          "title": "Emergency Location",
+          "text": "Inside Oakland Center"
         }
       ]
     },
@@ -141,7 +166,14 @@ var APP_DATA = {
         "pitch": 0.2504061094815029,
         "fov": 0.7110524055988134
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 2.933000337951105,
+          "pitch": 0.013213555352661999,
+          "rotation": 0.7853981633974483,
+          "target": "0-oakland-primary-location"
+        }
+      ],
       "infoHotspots": [
         {
           "yaw": -2.5297013194411218,
